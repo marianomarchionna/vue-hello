@@ -7,7 +7,8 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            message: 'Hello world by me'
+            message: "It's coming Rome",
+            image: "img/image.jpeg"
         }
     }
 )
